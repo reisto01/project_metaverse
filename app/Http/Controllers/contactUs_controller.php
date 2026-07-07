@@ -28,6 +28,9 @@ class contactUs_controller extends Controller
         
         public function index()
         {
+            if (session()->get('username') == "") {
+                return redirect('/login')->with('alert-notif', 'Anda Harus Login Terlebih Dahulu');
+            }
             return view('userpage.contact_us');
         }
 
@@ -67,11 +70,20 @@ class contactUs_controller extends Controller
             $data['search'] = $request->page;
             $round = ceil($data['get_total'] / $page);
             $data['pagin'] = $round;
-            return view("adminpage.contactUs",$data);
+            if (Session()->get('username')) {
+                return view("adminpage.contactUs",$data);
+            } else {
+                return redirect("/login");
+            }
+            
         }
 
         public function contactUs_post(Request $request)
         {
+            if (session()->get('username') == "") {
+                return redirect('/login')->with('alert-notif', 'Anda Harus Login Terlebih Dahulu');
+            }
+            
             $name = $request->name;
             $email = $request->email;
             $message = $request->message;
