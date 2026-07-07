@@ -52,7 +52,7 @@
                         <div class="row">
                             <div class="col-8">
                                 <div class="numbers">
-                                    <p class="text-sm mb-0 text-capitalize font-weight-bold">Total Properti</p>
+                                    <p class="text-sm mb-0 text-capitalize font-weight-bold">Total Property</p>
                                     <h5 class="font-weight-bolder mb-0">
                                         {{$total_prop}}
                                         <span class="text-success text-sm font-weight-bolder">+ {{$prop_add_today == null ? 0 : $prop_add_today}}</span>

@@ -80,7 +80,9 @@ class contactUs_controller extends Controller
                 'email' => $email,
                 'message' => $message
             ];
-            tb_mail::create($get_data);
+            tb_mail::create($get_data); if (session()->get('username') == "") {
+                return redirect('/login')->with('alert-notif', 'Anda Harus Login Terlebih Dahulu');
+            };
             return redirect('/contactUs');
         }
 

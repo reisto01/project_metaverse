@@ -173,7 +173,7 @@
                 </div>
             </div>
         </div>
-    </div>i
+    </div>
     <script>
         function pagination(params) {
             $('#page').val(params);

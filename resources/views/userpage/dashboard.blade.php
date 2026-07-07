@@ -14,7 +14,7 @@
                                     <div class="row">
                                         <div class="col-lg-6 my-auto">
                                             <h4 class="text-white mb-0 fadeIn1 fadeInBottom">Dvision Network</h4>
-                                            <h1 class="text-white fadeIn2 fadeInBottom">first LAND sale with Binance
+                                            <h1 class="text-white fadeIn2 fadeInBottom">First LAND Sale With Binance
                                                 NFT and NFTb</h1>
                                             <p class="lead text-white opacity-8 fadeIn3 fadeInBottom">Dvision has
                                                 revealed, that it will be
@@ -51,8 +51,8 @@
                                       </div>
                                       <div class="description ps-5">
                                         <h5 class="text-white">Netflix's 'Shuffle Play' feature</h5>
-                                        <p class="text-white">The Arctic Ocean freezes every winter and much of the sea-ice then thaws
-                                          every summer, and that process will continue whatever.</p>
+                                        <p class="text-white">The feature, called “Play Something,” is a shuffle mode option that 
+                                          will play another movie or show Netflix believes you may like.</p>
                                         <a href="javascript:;" class="text-white icon-move-right">
                                           More about us
                                           <i class="fas fa-arrow-right text-sm ms-1" aria-hidden="true"></i>
@@ -84,7 +84,7 @@
                                         </svg>
                                       </div>
                                       <div class="description ps-5">
-                                        <h5>Brave web browser</h5>
+                                        <h5>Brave Web Browser</h5>
                                         <p>The Arctic Ocean freezes every winter and much of the sea-ice then thaws every summer, and
                                           that process will continue whatever.</p>
                                         <a href="javascript:;" class="text-primary icon-move-right">
@@ -104,11 +104,10 @@
                                 <div class="container">
                                     <div class="row">
                                         <div class="col-lg-6 my-auto">
-                                            <h4 class="text-white mb-0 fadeIn1 fadeInBottom">virtual land NFT sales
+                                            <h4 class="text-white mb-0 fadeIn1 fadeInBottom">Virtual Land NFT Sales
                                             </h4>
-                                            <h1 class="text-white fadeIn2 fadeInBottom">$106 million worth of Metaverse
-                                                land was sold last
-                                                week</h1>
+                                            <h1 class="text-white fadeIn2 fadeInBottom">$106 Million Worth of Metaverse
+                                                Land Was Sold Last Week</h1>
                                             <p class="lead text-white opacity-8 fadeIn3 fadeInBottom">Undoubtedly,
                                                 Metaverse land outputting
                                                 record sales numbers and constantly increasing NFT prices, virtual
@@ -151,13 +150,12 @@
                                       </div>
                                       <div class="description ps-5">
                                         <h5>Netflix's 'Shuffle Play' feature</h5>
-                                        <p>The Arctic Ocean freezes every winter and much of the sea-ice then thaws every summer, and
-                                          that process will continue whatever.</p>
+                                        <p>The feature, called “Play Something,” is a shuffle mode option that will play another movie or show Netflix believes you may like.</p>
                                         <a href="javascript:;" class="text-dark icon-move-right">
                                           Learn more
                                           <i class="fas fa-arrow-right text-sm ms-1" aria-hidden="true"></i>
                                         </a>
-                                      </div>-->
+                                      </div>
                                     </div>
                                   </div>
                                   <div class="col-lg-6">
@@ -190,14 +188,14 @@
                                         </svg>
                                       </div>
                                       <div class="description ps-5">
-                                        <h5>Brave web browser</h5>
+                                        <h5>Brave Web Browser</h5>
                                         <p>The Arctic Ocean freezes every winter and much of the sea-ice then thaws every summer, and
                                           that process will continue whatever.</p>
                                         <a href="javascript:;" class="text-dark icon-move-right">
-                                          Learn more
+                                          Learn more  
                                           <i class="fas fa-arrow-right text-sm ms-1" aria-hidden="true"></i>
                                         </a>
-                                      </div>-->
+                                      </div> .
                                     </div>
                                   </div>
                                 </div>
@@ -246,8 +244,8 @@
                                       </div>
                                       <div class="description ps-5">
                                         <h5>Netflix's 'Shuffle Play' feature</h5>
-                                        <p>The Arctic Ocean freezes every winter and much of the sea-ice then thaws every summer, and
-                                          that process will continue whatever.</p>
+                                        <p>The feature, called “Play Something,” is a shuffle mode option that will play another movie or show Netflix 
+                                          believes you may like.</p>
                                         <a href="javascript:;" class="text-dark icon-move-right">
                                           More about us
                                           <i class="fas fa-arrow-right text-sm ms-1" aria-hidden="true"></i>
@@ -282,7 +280,7 @@
                                         </svg>
                                       </div>
                                       <div class="description ps-5">
-                                        <h5 class="text-white">Brave web browser</h5>
+                                        <h5 class="text-white">Brave Web Browser</h5>
                                         <p class="text-white">The Arctic Ocean freezes every winter and much of the sea-ice then thaws
                                           every summer, and that process will continue whatever.</p>
                                         <a href="javascript:;" class="text-white icon-move-right">
@@ -421,26 +419,6 @@
                                                         </div>
                                                     </div>
                                                 </div>
-                                                <div class="accordion-item mb-3">
-                                                  <h5 class="accordion-header" id="headingThree">
-                                                      <button class="accordion-button border-bottom font-weight-bold"
-                                                          type="button" data-bs-toggle="collapse"
-                                                          data-bs-target="#collapseThree" aria-expanded="false"
-                                                          aria-controls="collapseThree">
-                                                         lorem Ipsum Del
-                                                          <i class="collapse-close fa fa-plus text-xs pt-1 position-absolute end-0 me-3"
-                                                              aria-hidden="true"></i>
-                                                          <i class="collapse-open fa fa-minus text-xs pt-1 position-absolute end-0 me-3"
-                                                              aria-hidden="true"></i>
-                                                      </button>
-                                                  </h5>
-                                                  <div id="collapseThree" class="accordion-collapse collapse"
-                                                      aria-labelledby="headingThree" data-bs-parent="#accordionRental">
-                                                      <div class="accordion-body text-sm opacity-8 text-dark">
-                                                          Lorem ipsum, dolor sit amet consectetur adipisicing elit. Tenetur dolorum nemo inventore dicta sequi consequatur aspernatur voluptatem laboriosam hic eveniet quisquam ad harum, nesciunt quos architecto, quis saepe nobis. Sint?
-                                                      </div>
-                                                  </div>
-                                              </div>
                                             </div>
                                         </div>
                                     </div>
