@@ -1,0 +1,28 @@
+services:
+  - type: web
+    name: project-metaverse
+    env: php
+    buildCommand: "composer install --no-dev --optimize-autoloader"
+    envVars:
+      - key: DOCUMENT_ROOT
+        value: public
+      - key: APP_ENV
+        value: production
+      - key: APP_DEBUG
+        value: true
+      - key: APP_URL
+        value: https://project-metaverse.onrender.com
+      - key: CACHE_DRIVER
+        value: array
+      - key: SESSION_DRIVER
+        value: cookie
+      - key: QUEUE_CONNECTION
+        value: sync
+      - key: DB_CONNECTION
+        value: sqlite
+      - key: DB_DATABASE
+        value: database/database.sqlite
+      - key: LOG_CHANNEL
+        value: stderr
+      - key: APP_KEY
+        generateValue: true
